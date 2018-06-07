@@ -27,7 +27,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <ApplicationInsightsResourceId>/subscriptions/e16ee562-e5ed-479a-8c52-51365a912d48/resourcegroups/AppllicationInsightsTest20180606/providers/microsoft.insights/components/applicationinsightstest20180606on2</ApplicationInsightsResourceId>
-    <ApplicationInsightsAnnotationResourceId>/subscriptions/e16ee562-e5ed-479a-8c52-51365a912d48/resourcegroups/AppllicationInsightsTest20180606/providers/microsoft.insights/components/applicationinsightstest20180606on</ApplicationInsightsAnnotationResourceId>
+    <ApplicationInsightsAnnotationResourceId>/subscriptions/e16ee562-e5ed-479a-8c52-51365a912d48/resourceGroups/AppllicationInsightsTest20180606/providers/microsoft.insights/components/applicationinsightstest20180606on2</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
